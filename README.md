@@ -13,11 +13,11 @@ Modern tech recruiting is broken. Companies regularly subject candidates to grue
 
 The result? **Leadership sits in a room three months later, genuinely baffled as to why their "perfect score" new hire is struggling to ship a single stable feature to production.**
 
-By treating the hiring pipeline like a high-stakes theatrical showcase, the industry has optimized its filters to select for **interview performers, not real-world executioners.** This broken system actively penalizes the most valuable builders:
+By treating the hiring pipeline like a high-stakes theatrical showcase, the industry has optimized its filters to select for **interview performers, not real-world executioners.** This broken system actively penalizes the most valuable builders, like:
 * **The Quiet Executioners:** Deeply analytical, pragmatic engineers who might be shy, introverted, or neurodivergent. They excel in a state of quiet focus but are filtered out by artificial, high-pressure social showmanship.
 * **The Proven Professionals:** Senior practitioners who give 100% to their current delivery goals or handle personal and caregiving boundaries. They do not have 20+ hours a week of unpaid free time to memorize standardized puzzle patterns just to prove they can do the job they have successfully performed for a decade.
 
-**FeBe (For Engineers By Engineers)** is an open-source, lightweight alternative designed to eliminate corporate amnesia, slash hiring costs, and restore respect, sanity, and inclusivity to the engineering profession.
+**FeBe (For Engineers By Engineers)** is an open-source, lightweight alternative designed to eliminate corporate ambiguity and redundancy, slash hiring costs, and restore respect, sanity, and inclusivity to the engineering profession.
 
 ---
 
